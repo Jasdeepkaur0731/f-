@@ -1,0 +1,8 @@
+C:\Users\jasde\Desktop\F#\MyFSharpApp\fsharpTail\obj\Debug\net8.0\fsharpTail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasde\Desktop\F#\MyFSharpApp\fsharpTail\obj\Debug\net8.0\fsharpTail.AssemblyInfoInputs.cache
+C:\Users\jasde\Desktop\F#\MyFSharpApp\fsharpTail\obj\Debug\net8.0\fsharpTail.AssemblyInfo.cs
+C:\Users\jasde\Desktop\F#\MyFSharpApp\fsharpTail\obj\Debug\net8.0\fsharpTail.csproj.CoreCompileInputs.cache
+C:\Users\jasde\Desktop\F#\MyFSharpApp\fsharpTail\obj\Debug\net8.0\fsharpTail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jasde\Desktop\F#\MyFSharpApp\fsharpTail\obj\Debug\net8.0\fsharpTail.RazorAssemblyInfo.cache
+C:\Users\jasde\Desktop\F#\MyFSharpApp\fsharpTail\obj\Debug\net8.0\fsharpTail.RazorAssemblyInfo.cs
+C:\Users\jasde\Desktop\F#\MyFSharpApp\fsharpTail\obj\Debug\net8.0\fsharpTail.sourcelink.json
